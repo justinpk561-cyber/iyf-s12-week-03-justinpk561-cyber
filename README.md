@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Justinkeya - Week 03 Project
 
 A beginner web development project created during IYF Weekend Academy Season 12, Week 03. This project helped me practise HTML, CSS, Git, and GitHub workflows.
@@ -42,3 +43,6 @@ Both branches edited the same line in "about.html". I resolved the conflict manu
 ## License
 
  - MIT licenced
+=======
+# iyf-week-03-justinpk561-cyberqCollaboration practise
+>>>>>>> d004f3617c33c7abd8dcb0c8c6c993f0f812255d
